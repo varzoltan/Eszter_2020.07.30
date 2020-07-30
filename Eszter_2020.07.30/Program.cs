@@ -50,6 +50,9 @@ namespace Eszter_2020._07._30
                 }               
                 //Console.Write($" ");
             }
+
+            //9. Készíts programot, ami megszámolja egy beolvasott stringben pl. az "a" betűket.
+
             Console.ReadKey();
         }
     }
